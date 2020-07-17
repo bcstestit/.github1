@@ -4,8 +4,5 @@
     "iconName": "azure",
     "categories": [
         "java"
-    ],
-    "filePatterns": [
-        "*.jar"
     ]
 }
