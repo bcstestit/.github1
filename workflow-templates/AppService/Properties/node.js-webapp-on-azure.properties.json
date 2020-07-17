@@ -3,6 +3,6 @@
     "description": "Deploy Node.js app to Azure",
     "iconName": "azure",
     "categories": [
-        "node" 
+        "node" , "Deployment"
     ]
 }

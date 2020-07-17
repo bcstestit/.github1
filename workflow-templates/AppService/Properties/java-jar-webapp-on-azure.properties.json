@@ -3,6 +3,6 @@
     "description": "Deploy Java Web App to Azure",
     "iconName": "azure",
     "categories": [
-        "java" 
+        "java" , "Deployment"
     ]
 }

@@ -3,6 +3,6 @@
     "description": "Deploy Python app to Azure",
     "iconName": "azure",
     "categories": [
-        "python" 
+        "Python" , "Deployment"
     ]
 }

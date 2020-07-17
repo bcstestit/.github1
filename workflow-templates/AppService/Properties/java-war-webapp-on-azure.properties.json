@@ -3,6 +3,6 @@
     "description": "Deploy Java War package to Azure",
     "iconName": "azure",
     "categories": [
-        "java" 
+        "java" , "Deployment"
     ]
 }
