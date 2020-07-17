@@ -1,0 +1,8 @@
+{
+    "name": "ASP.NET Core app to Azure Web App Workflow",
+    "description": "ASP.NET Core app to Azure Web App CI/CD workflow template.",
+    "iconName": "azure",
+    "categories": [
+        "ASP"
+    ]
+}
