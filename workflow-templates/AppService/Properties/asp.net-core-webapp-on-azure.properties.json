@@ -1,6 +1,6 @@
 {
-    "name": "ASP.NET Core app to Azure Web App",
-    "description": "ASP.NET Core app to Azure Web App CI/CD workflow template.",
+    "name": "ASP.NET Core app to Azure",
+    "description": "Deploy ASP.NET Core app to Azure App Service",
     "iconName": "azure",
     "categories": [
         "ASP", "Deployment"
