@@ -1,0 +1,8 @@
+{
+    "name": "Build and deploy Docker app to Azure",
+    "description": "Build and deploy Docker app to Azure",
+    "iconName": "azure",
+    "categories": [
+        "docker" 
+    ]
+}
