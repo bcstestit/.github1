@@ -1,5 +1,5 @@
 {
-    "name": "Node.js Web App to Azure Workflow",
+    "name": "Node.js Web App to Azure",
     "description": "Deploy Node.js app to Azure",
     "iconName": "azure",
     "categories": [
